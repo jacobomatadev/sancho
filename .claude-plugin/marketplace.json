@@ -1,0 +1,6 @@
+{
+  "name": "sancho",
+  "owner": { "name": "Jacobo Mata Pinilla" },
+  "description": "Sancho, un mod minimalista para Claude Code en español.",
+  "plugins": [{ "name": "sancho", "source": "./" }]
+}

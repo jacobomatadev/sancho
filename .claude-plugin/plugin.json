@@ -1,0 +1,8 @@
+{
+  "name": "sancho",
+  "version": "1.0.0",
+  "description": "Tu escudero en Claude Code: una sola fila que aparece solo cuando hace falta. Avisa antes de continuar una conversación cara, resume y deja revisar los cambios uno a uno, sigue a los subagentes, señala riesgos y guarda tus correcciones como reglas.",
+  "author": { "name": "Jacobo Mata Pinilla" },
+  "keywords": ["mod", "subagentes", "caché", "diff", "reglas", "español"],
+  "types": "./types/index.d.ts"
+}
